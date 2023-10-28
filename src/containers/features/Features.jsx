@@ -1,12 +1,12 @@
 import React from 'react';
 import './feature.css';
 
-function Feature() {
+function Features() {
   return (
     <div>
-      Feature
+      
     </div>
   )
 }
 
-export default Feature;
+export default Features;
